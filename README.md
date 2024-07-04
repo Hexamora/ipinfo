@@ -2,9 +2,9 @@
 Tools Ini berguna untuk mendapatkan informasi dari ip yang diberikan.
 
 ##  Cara Install di Linux
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Dibawah ini adalah urutan dalam menginstall Script di Linux.
 
-```bash
+```Install Scripts - Linux
 sudo python -m pip install requests
 git clone https://github.com/Hexamora/ipinfo.git
 cd ipinfo
